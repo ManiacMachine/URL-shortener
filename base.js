@@ -1,5 +1,5 @@
 // Data for accessing Google API
-const apiKey = "AIzaSyCSetuPyxYQDVm7ZDIov4uujZZAz8U13uE";
+const apiKey = "";
 const url = "https://www.googleapis.com/urlshortener/v1/url";
 
 // Page elements
